@@ -1,0 +1,48 @@
+.inputs {
+    float: right;
+}
+input {
+    width: 250px;
+    height: 40px;
+    border: 0;
+    border-radius: 12px;
+    background-color: #ebebeb;
+    align-items: center;
+    padding: 4px;
+    font-size: 12pt;
+    text-align: right;
+}
+
+
+label {
+    border-radius: 12px;
+    align-items: center;
+    font-size: 12pt;
+    font-family: "Oswald Heavy";
+    background-color: black;
+    color: #ededed;
+    width: 100%;
+    padding: 9px;
+}
+input[placeholder] {
+    margin-bottom: 50px;
+    text-align: right;
+}
+
+input[type=submit] {
+    width: 150px;
+    float: right;
+    font-family: "Oswald Heavy";
+    font-size: 18px;
+    color: #ededed;
+    background-color: rgb(150, 149, 153);
+    text-align: center;
+    transition: 1s;
+}
+
+input[type=submit]:hover {
+    background-color: #ee3c1e;
+
+}
+
+

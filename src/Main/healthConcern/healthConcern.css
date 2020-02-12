@@ -1,0 +1,28 @@
+.health-concern {
+    color: #ededed;
+    font-family: "Oswald Heavy";
+    position: absolute;
+    left: 6em;
+    top: 6em;
+}
+
+.health-concern h2 {
+    background-color: red;
+    width: 210px;
+    height: 40px;
+    border-radius: 11px;
+    position: relative;
+    margin-left: 7px;
+    margin-bottom: 0;
+    font-size: 22px;
+}
+
+.health-concern p {
+    color: #282c34;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    width: 10em;
+    float: left;
+}

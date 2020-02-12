@@ -1,0 +1,12 @@
+.submit-container {
+    position: absolute;
+    top: 200px;
+    right: 200px;
+    width: 450px;
+    height: 700px;
+}
+#submit {
+    float: right;
+    position: relative;
+}
+

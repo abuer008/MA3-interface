@@ -1,0 +1,30 @@
+.schedules-container {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 2em;
+    right: 2em;
+}
+#schedule-black {
+    width: 500px;
+    height: 180px;
+    color: #ededed;
+    box-shadow: 5px 5px 20px #c6c6c6;
+    border-radius: 30px;
+    position: absolute;
+    right: 5em;
+    top: 5em;
+    z-index: 1;
+}
+
+#schedule-white {
+    width: 500px;
+    height: 180px;
+    color: #ededed;
+    box-shadow: -5px -5px 20px #ffffff;
+    border-radius: 30px;
+    position: absolute;
+    right: 5em;
+    top: 5em;
+    z-index: 2;
+}
